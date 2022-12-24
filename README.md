@@ -21,7 +21,7 @@ Currently available only for Windows OS.
 
 
 ## Download ##
-Download the latest version from the [releases](https://github.com/oriash93/AutoClicker/releases) page, unzip and run AutoClicker.exe.
+Download the latest version from the [releases](https://github.com/autoclicker2022/autoclicker/releases) page, unzip and run AutoClicker.exe.
 
 ## Build ##
 Open the solution via Visual Studio, build and run.
